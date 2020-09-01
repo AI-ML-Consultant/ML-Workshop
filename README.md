@@ -10,15 +10,29 @@
 
 ## Schedule 
 ### Day 1
+* What is AI?
+* ML Models 
+* ML Workflow
+* Colab Setup
 ### Day 2
+* Career Opportunities in AI
+* Different Job Roles
+* Skills for AI Jobs
+* A technical Idea of Machine Learning.
+* Code Lab Part I
+* Case Study
+
 ### Day 3
+* India and AI
+* AI in industry 
+* Code Lab Part 2
+* Deployment
+* Case Study
 
 ## Resources in this repository
 [Notebook]()
 
-[Cheatsheets]()
-
-[Presentations]()
+[Dataset]()
 
 <h3 align="center">Connect with us</h3>
 
