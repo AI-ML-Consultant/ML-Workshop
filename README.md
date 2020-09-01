@@ -30,9 +30,9 @@
 * Case Study
 
 ## Resources in this repository
-[Notebook]()
+[Notebook Day 1](https://github.com/aravind-naidu/ML-Workshop/blob/master/Day_1.ipynb)
 
-[Dataset]()
+[Dataset](https://github.com/aravind-naidu/ML-Workshop/blob/master/Dataset/car%20data.csv)
 
 <h3 align="center">Connect with us</h3>
 
